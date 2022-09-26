@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciMaterials", "SciMaterials\SciMaterials.csproj", "{C0AA5349-13E3-4F2E-B526-87B95E47CA77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciMaterials.Data", "SciMaterials.Data\SciMaterials.Data.csproj", "{B82249C5-B74F-474C-BFFE-34EB9B73B224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0AA5349-13E3-4F2E-B526-87B95E47CA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0AA5349-13E3-4F2E-B526-87B95E47CA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0AA5349-13E3-4F2E-B526-87B95E47CA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82249C5-B74F-474C-BFFE-34EB9B73B224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82249C5-B74F-474C-BFFE-34EB9B73B224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82249C5-B74F-474C-BFFE-34EB9B73B224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82249C5-B74F-474C-BFFE-34EB9B73B224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
